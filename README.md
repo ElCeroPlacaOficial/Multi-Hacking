@@ -18,6 +18,6 @@ Y por ultimo ejecuta la herramienta con el comando.
 <p align="center"><img src="images/Captura_de_pantalla_de_2025-08-11 18-20-01.png"></p>
 Y listo asi de sencillo es instalar Multi-Hacking.
 
-# Captura de pantalla de el panel de ayuda.
+# Captura de pantalla del panel de ayuda.
 <p align="center"><img src="images/images-install/Captura_de_pantalla_de_2025-08-11-19-38-03.png"></p>
 
