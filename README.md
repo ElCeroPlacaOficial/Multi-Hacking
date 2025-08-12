@@ -3,5 +3,5 @@ sencilla herramienta creada en bash con varias opciones disponibles como el esca
 
 # Instalacion.
 Clonar el repositorio.
-• `git clone https://github.com/ElCeroPlacaOficial/Multi-Hacking.git`
+`git clone https://github.com/ElCeroPlacaOficial/Multi-Hacking.git`
 
